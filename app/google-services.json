@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "891675590626",
+    "project_id": "ratio-chat-app",
+    "storage_bucket": "ratio-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891675590626:android:85e2429cc7d7e9553703bb",
+        "android_client_info": {
+          "package_name": "com.ratioapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoS5p72k0PoEYj1dFa5TCu8_9JJBv53nE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
